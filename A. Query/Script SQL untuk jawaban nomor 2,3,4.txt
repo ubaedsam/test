@@ -1,0 +1,7 @@
+4. SELECT id_student, 
+    first_name,
+    last_name,
+    phone,
+    id_faculty
+  FROM student
+  ORDER BY last_name ASC;
